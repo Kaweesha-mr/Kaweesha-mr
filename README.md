@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaweesha-mr
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python,Java,C,Html,Css,Php,Javascript
+- 🌱 I’m currently learning Python,C#,C++,Html,Css,Php,Javascript
 - 📫 How to reach me kaweesha.mr@gmail.com
 
 <!---
