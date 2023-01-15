@@ -33,5 +33,3 @@ align="center<h1 align="center">Hi 👋, I'm Kaweesha Marasinghe</h1>
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaweesha-mr&show_icons=true&locale=en&layout=compact" alt="kaweesha-mr" /></p>
 
 <p align="center" width="300">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaweesha-mr&show_icons=true&locale=en" alt="kaweesha-mr" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaweesha-mr&" alt="kaweesha-mr" /></p>
