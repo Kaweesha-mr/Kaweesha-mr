@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/kaweeshamr" target="blank"><img src="https://img.shields.io/twitter/follow/kaweeshamr?logo=twitter&style=for-the-badge" alt="kaweeshamr" /></a> </p>
 
-- 🔭 I’m currently working on [School Management Project](https://github.com/Kaweesha-mr/Esoft_Final_Projecr)
+- 🔭 I’m currently working on [JavaScript Exercises]([https://github.com/Kaweesha-mr/Esoft_Final_Projecr](https://github.com/Kaweesha-mr/javascript-exercises))
 
-- 🌱 I’m currently learning **CS50Ai,HTML,Css,Php,javascript,Python**
+- 🌱 I’m currently learning **HTML,Css,Php,javascript,Python**
 
 - 💬 Ask me about **C,C#,Sql,C++,Python**
 
 - 📫 How to reach me **Kaweesha.mr@gmail.com**
 
-- ⚡ Fun fact **I think I'm a introvert.**
+- ⚡ Fun fact **I'm a introvert but act like a extrovert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
