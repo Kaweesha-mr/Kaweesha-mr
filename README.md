@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaweeshamr" target="blank"><img src="https://img.shields.io/twitter/follow/kaweeshamr?logo=twitter&style=for-the-badge" alt="kaweeshamr" /></a> </p>
 
-- 🔭 I’m currently working on [JavaScript Exercises]([https://github.com/Kaweesha-mr/Esoft_Final_Projecr](https://github.com/Kaweesha-mr/javascript-exercises))
+- 🔭 I’m currently working on [Garment and Textile Management System](https://github.com/Kaweesha-mr/Esoft_Final_Projecr](https://github.com/Kaweesha-mr/javascript-exercises))
 
 - 🌱 I’m currently learning **HTML,Css,Php,javascript,Python**
 
