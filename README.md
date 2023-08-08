@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaweesha-mr&label=Profile%20views&color=0e75b6&style=flat" alt="kaweesha-mr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=kaweesha-mr](https://github-profile-trophy.vercel.app/?username=Kaweesha-mr-ma&theme=onedark)" alt="kaweesha-mr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kaweesha-mr-ma&theme=onedark" alt="kaweesha-mr" /></a> </p>
 
 
 
