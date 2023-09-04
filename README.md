@@ -32,5 +32,7 @@
 
 <p align="center" >
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaweesha-mr&" alt="kaweesha-mr" />
+  
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Kaweesha-mr}" alt="kaweesha-mr" />
 </p>
 
