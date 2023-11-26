@@ -32,6 +32,6 @@
 
 <p align="center" >
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaweesha-mr&" alt="kaweesha-mr" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaweesha-mr&layout=compact)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaweesha-mr&layout=compact" alt="kaweesha-mr" />
 </p>
 
