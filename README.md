@@ -37,6 +37,6 @@
 
 <p align="center" >
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaweesha-mr&layout=compact" alt="kaweesha-mr" />
+  <img align="center" src="https://drive.google.com/file/d/1LOgqSDruUTbYrU5VoergYXf4cKMa3uF6/view?usp=sharing" alt="kaweesha-mr" />
 </p>
 
