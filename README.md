@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/Kaweesha-mr/Garment-And-Management-System)
 
-- 🌱 I’m currently learning **MERN Stack,Next.js,Python**
+- 🌱 I’m currently learning **MERN,Next.js,Springboot,Typescript**
 
 - 💬 Ask me about **C,C#,Sql,C++,Python,Javascript,Java,OOP**
 
