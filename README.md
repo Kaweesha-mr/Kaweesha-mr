@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/Kaweesha-mr/Garment-And-Management-System)
 
-- 🌱 I’m currently learning **MERN,Next.js,Springboot,Typescript**
+- 🌱 I’m currently learning **Next.js,Springboot,Typescript**
 
-- 💬 Ask me about **C,C#,Sql,C++,Python,Javascript,Java,OOP**
+- 💬 Ask me about **React,NodeJs,TypeScript,Sql,Python,Javascript,Java,OOP**
 
 - 📫 How to reach me **Kaweesha.mr@gmail.com**
 
