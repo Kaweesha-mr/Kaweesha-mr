@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/Kaweesha-mr/Garment-And-Management-System)
 
-- 🌱 I’m currently learning **Next.js,Springboot**
+- 🌱 I’m currently learning **Next.js,Springboot,**
 
 - 💬 Ask me about **React,NodeJs,TypeScript,Sql,Python,Javascript,Java,OOP**
 
