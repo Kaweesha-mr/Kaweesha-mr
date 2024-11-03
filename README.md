@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaweesha Marasinghe</h1>
+<h1 align="center">Hello 👋, I'm Kaweesha Marasinghe</h1>
 <h3 align="center">A passionate Developer From Sri lanka</h3>
 <img align="right" alt ="coding" width = "320" height="350" src="https://github.com/Kaweesha-mr/Kaweesha-mr/blob/main/DALL_E_2024-01-13_08.39.53_-_A_3D_animated-style_image_of_a_young_boy_wearing_a_hoodie__sitting_and_working_on_a_high-resolution_laptop_similar_in_design_to_a_MacBook__but_without-removebg-preview-2.png">
 
