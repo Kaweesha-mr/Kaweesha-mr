@@ -10,11 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/kaweeshamr" target="blank"><img src="https://img.shields.io/twitter/follow/kaweeshamr?logo=twitter&style=for-the-badge" alt="kaweeshamr" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/Kaweesha-mr/Garment-And-Management-System)
+- I’m currently learning **AWS,DevOps & IOT**
 
-- I’m currently learning **Next.js,Springboot,**
-
-- 💬 Ask me about **React,NodeJs,TypeScript,Sql,Python,Javascript,Java,OOP**
+- 💬 Ask me about **React,SpringBoot,TypeScript,Sql,Python,Javascript,Java,OOP**
 
 - 📫 How to reach me **Kaweesha.mr@gmail.com**
 
